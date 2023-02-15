@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a browser extention that identifies whether any given product is made with Union labor
+- 🌱 I’m currently learning how to code
+- 👯 I’m looking to collaborate on anything
+- 🤔 I’m looking for help with getting a paying job
+- 💬 Ask me about anything, I'm an over-sharer
+- 📫 How to reach me: koll.david@gmail.com
+- 😄 Pronouns: we/our
+- ⚡ Fun fact: I'm not very fun
+
 <!--
 **donkeykong718/donkeykong718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
