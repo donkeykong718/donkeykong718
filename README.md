@@ -1,12 +1,14 @@
 ### Hi there 👋
 
+A little bit about me: 
+
 - 🔭 I’m currently working on a browser extention that identifies whether any given product is made with Union labor
 - 🌱 I’m currently learning how to work with AI
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with getting a paying job
 - 💬 Ask me about anything, I'm an over-sharer
 - 📫 How to reach me: koll.david@gmail.com
-- Check out my portfolio at www.davidkoll.com/projects
+- 👀 Check out my portfolio at www.davidkoll.com/projects
 
 <!--
 **donkeykong718/donkeykong718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
