@@ -13,8 +13,8 @@ A little bit about me:
  - 💬 Ask me about anything, I'm an over-sharer
 
  - 📫 How to reach me: koll.david@gmail.com
- - 👀 Check out my portfolio at www.davidkoll.com
- - 💼 Check out my resume at www.davidkoll.com/resume 
+ - 👀 Check out my portfolio at www.davidkoll.com/#projects
+ - 💼 Check out my resume at www.davidkoll.com/#resume 
 
 <!--
 **donkeykong718/donkeykong718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
