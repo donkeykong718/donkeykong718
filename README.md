@@ -13,7 +13,7 @@ A little bit about me:
  - 💬 Ask me about anything, I'm an over-sharer
 
  - 📫 How to reach me: koll.david@gmail.com
- - 👀 Check out my portfolio at www.davidkoll.com/projects
+ - 👀 Check out my portfolio at www.davidkoll.com
  - 💼 Check out my resume at www.davidkoll.com/resume 
 
 <!--
